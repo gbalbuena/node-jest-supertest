@@ -1,0 +1,8 @@
+{
+  "host": "https://xkcd.com",
+  "endpoint": {
+    "comics": {
+      "info614": "/614/info.0.json"
+    }
+  }
+}
